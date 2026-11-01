@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm TheCraftedTech! 👋
 
-<!--
-**TheCraftedTech/thecraftedtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer & tech enthusiast from Germany.
 
-Here are some ideas to get you started:
+I enjoy building things, experimenting with new technologies and turning ideas into working projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm interested in
+- 🌐 Web Development
+- ⚙️ Programming & Automation
+- 🔌 Hardware & Microcontrollers
+- 🖥️ Self-hosting & Servers
+- 🎮 Minecraft & Game Development
+
+### 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Hardware:** ESP32, Arduino, Raspberry Pi
+- **Tools:** Git, GitHub, VS Code
+
+### 📂 What I'm working on
+
+- 🎛️ **[OpenCue](https://thecraftedtech.github.io/opencue/)** – A DMX lighting control software for managing professional stage lighting.
+- 🌐 Web applications and interactive projects.
+- 🔌 Hardware experiments with ESP32 and microcontrollers.
+- 🖥️ Self-hosted services and server projects.
+---
+
+*Building, experimenting, and learning something new every day.*
