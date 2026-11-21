@@ -1,4 +1,4 @@
-# Hey, ich bin [TheCraftedTech](https://thecraftedtech.github.io/)
+# Hi, ich bin [TheCraftedTech](https://thecraftedtech.github.io/)
 
 Entwickler aus Deutschland mit Interesse an Technik in all ihren Formen.
 
