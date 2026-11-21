@@ -1,29 +1,32 @@
-# Hey, I'm TheCraftedTech! 👋
+# Hey, ich bin TheCraftedTech
 
-💻 Developer & tech enthusiast from Germany.
+Entwickler aus Deutschland mit Interesse an Technik in all ihren Formen.
 
-I enjoy building things, experimenting with new technologies and turning ideas into working projects.
+Ich baue Dinge, probiere gerne neue Technologien aus und setze Ideen in funktionierende Projekte um.
 
-🌐 **[Check out my landing page](https://thecraftedtech.github.io/)** – Discover my projects, experiments and creations.
+**[Meine Landingpage](https://thecraftedtech.github.io/)** – ein Überblick über meine Projekte, Experimente und Arbeiten.
 
-### 🚀 What I'm interested in
-- 🌐 Web Development
-- ⚙️ Programming & Automation
-- 🔌 Hardware & Microcontrollers
-- 🖥️ Self-hosting & Servers
-- 🎮 Minecraft & Game Development
+## Interessen
 
-### 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Hardware:** ESP32, Arduino, Raspberry Pi
-- **Tools:** Git, GitHub, VS Code
+- Webentwicklung
+- Programmierung & Automatisierung
+- Hardware & Mikrocontroller
+- Self-Hosting & Server
+- Minecraft & Game Development
 
-### 📂 What I'm working on
-- 🎛️ **[OpenCue](https://thecraftedtech.github.io/opencue/)** – A DMX lighting control software for managing professional stage lighting.
-- 🌐 Web applications and interactive projects.
-- 🔌 Hardware experiments with ESP32 and microcontrollers.
-- 🖥️ Self-hosted services and server projects.
+## Technologien & Tools
+
+**Sprachen:** JavaScript, Python, HTML, CSS
+**Hardware:** ESP32, Arduino, Raspberry Pi
+**Tools:** Git, GitHub, VS Code
+
+## Aktuelle Projekte
+
+- **[OpenCue](https://thecraftedtech.github.io/opencue/)** – Software zur DMX-Lichtsteuerung für professionelles Bühnenlicht
+- Webanwendungen und interaktive Projekte
+- Hardware-Experimente mit ESP32 und Mikrocontrollern
+- Self-Hosted Services und Serverprojekte
 
 ---
 
-*Building, experimenting, and learning something new every day.*
+*Ich baue, experimentiere und lerne gerne etwas Neues.*
