@@ -23,7 +23,7 @@ Ich baue eigene Tools und Software – von Web-Interfaces über Minecraft-Plugin
 
 ## Aktuelle Projekte
 
-- **[OpenCue](https://thecraftedtech.github.io/projekte/opencue.html)** – Open-Source-DMX-Lichtsteuerpult mit 3D-Bühnensimulation, Cue-Listen, Effekten und Tablet-Fernsteuerung (Windows, GPL-3.0)
+- **[OpenCue](https://thecraftedtech.github.io/opencue/)** – Open-Source-DMX-Lichtsteuerpult mit 3D-Bühnensimulation, Cue-Listen, Effekten und Tablet-Fernsteuerung (Windows, GPL-3.0)
 - **[Home TV](https://thecraftedtech.github.io/projekte/hometv.html)** – Live-TV auf dem Amazon Fire TV, direkt von der FRITZ!Box gestreamt, ohne zwischengeschalteten Server (MIT)
 - Webanwendungen und interaktive Projekte
 - Hardware-Experimente mit ESP32 und Mikrocontrollern
